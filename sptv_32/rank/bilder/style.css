@@ -1,0 +1,10 @@
+body{
+    background-color: greenyellow;
+    text-align: center;
+}
+button{
+    width: 100px;
+    height: 50px;
+    background-color: rgb(47, 252, 255);
+    border: 50px;
+}

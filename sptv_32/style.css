@@ -1,0 +1,27 @@
+body{
+    text-align: center;
+    background-color: rgb(8, 100, 86);
+}
+.blue{
+    color: blue;
+}
+.green{
+    color: greenyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.red{
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.lightblue{
+    color:lightblue;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.tan{
+    color: tan;
+    font-family: monospace;
+}
+.rank{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: cornflowerblue;
+}
